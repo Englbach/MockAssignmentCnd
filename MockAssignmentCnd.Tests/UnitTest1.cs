@@ -60,7 +60,7 @@ namespace MockAssignmentCnd.Tests
                 });
 
             // Complete the setup of our Mock Product
-            this.MockProductsServices = mockProductsServices.Object;
+           // this.MockProductsServices = mockProductsServices.Object;
 
         }
         ///<summary>
